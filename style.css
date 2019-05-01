@@ -1,0 +1,17 @@
+body{
+    background:linear-gradient(to right,yellow,red);
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow:2px 2px white;
+    width:100%;
+    letter-spacing:.5em;
+}
+h2,h4{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing:.2em;
+    text-shadow:1px 1px white;
+}
+body{
+   text-align:center;
+}
